@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="altworthPeaceJusticeDescription">Erica Chenoweth, Ph.D., is an associate professor at the Josef Korbel School of International Studies at the University of Denver and an associate senior researcher at the Peace Research Institute of Oslo.\nAn internationally recognized authority on political violence and its alternatives, Foreign Policy magazine ranked her among the Top 100 Global Thinkers in 2013 for her efforts to promote the empirical study of civil resistance.</string>
+    <string name="alworthPeaceJustice">Alworth Peace and Justice: Why Civil Resistance Works with Erica Chenoweth</string>
+    <string name="app_name">Simple Text</string>
+    <string name="cambiata">Cambiata: Haydn, The Prince and Baryton</string>
+    <string name="cambiataDescription">Haydn wrote more than 120 works of chamber music to satisfy the passion Prince Nikolaus Esterhazy had for playing his beloved baryton. Tonight we offer a rare opportunity to hear this unusual stringed-instrument. Penny Schwarze, baryton, will be joined by Ron Kari, viola, and Betsy Husby, cello, in a performance of charming trios composed for the Prince’s pleasure. The program will also include one of Haydn\'s piano trios, featuring LeAnn House performing on a replica of an 18th-century piano.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="march10_2016">THURSDAY, MARCH 10, 2016</string>
+    <string name="march12_2016">SATURDAY, MARCH 12, 2016</string>
+    <string name="march4_2016">FRIDAY, MARCH 4, 2016</string>
+    <string name="menu_settings">Settings</string>
+    <string name="mitchellAuditorium">Mitchell Auditorium</string>
+    <string name="thistlesAndShamrocks">Mitchell Performing Arts Series: Thistles &amp; Shamrocks</string>
+    <string name="thistlesAndShamrocksDescription">An Evening of Scottish &amp; Irish Music and Dance sponsored by the Duluth Scottish Heritage Association\n"- Steve Hand playing the Irish Whistle\n- DSHA Pipes &amp; Drums band\n- Erianna Macpherson Reyelts\n- Scottish Fiddler Mary MacGillvray\n- DSHA Dancers\n- And More!</string>
+    <string name="title_activity_second">ComposeText</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
