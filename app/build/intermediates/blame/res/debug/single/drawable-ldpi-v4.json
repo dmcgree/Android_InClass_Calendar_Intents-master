@@ -1,6 +1,38 @@
 [
     {
+        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master - Copy\\Android_InClass_Calendar_Intents-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\book2.jpg",
+        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master - Copy\\Android_InClass_Calendar_Intents-master\\app\\src\\main\\res\\drawable-ldpi\\book2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\McGree_MiniProject\\McGree_MiniProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\book4.jpg",
+        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\McGree_MiniProject\\McGree_MiniProject\\app\\src\\main\\res\\drawable-ldpi\\book4.jpg"
+    },
+    {
         "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master - Copy\\Android_InClass_Calendar_Intents-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\book4.jpg",
+        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master - Copy\\Android_InClass_Calendar_Intents-master\\app\\src\\main\\res\\drawable-ldpi\\book4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\McGree_MiniProject\\McGree_MiniProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\book1.jpg",
+        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\McGree_MiniProject\\McGree_MiniProject\\app\\src\\main\\res\\drawable-ldpi\\book1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master - Copy\\Android_InClass_Calendar_Intents-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\book1.jpg",
+        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master - Copy\\Android_InClass_Calendar_Intents-master\\app\\src\\main\\res\\drawable-ldpi\\book1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\McGree_MiniProject\\McGree_MiniProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\book3.jpg",
+        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\McGree_MiniProject\\McGree_MiniProject\\app\\src\\main\\res\\drawable-ldpi\\book3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master - Copy\\Android_InClass_Calendar_Intents-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\book3.jpg",
+        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master - Copy\\Android_InClass_Calendar_Intents-master\\app\\src\\main\\res\\drawable-ldpi\\book3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\McGree_MiniProject\\McGree_MiniProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\book2.jpg",
+        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\McGree_MiniProject\\McGree_MiniProject\\app\\src\\main\\res\\drawable-ldpi\\book2.jpg"
     }
 ]

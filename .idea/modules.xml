@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android_InClass_Calendar_Intents-master.iml" filepath="$PROJECT_DIR$/Android_InClass_Calendar_Intents-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/McGree_MiniProject.iml" filepath="$PROJECT_DIR$/McGree_MiniProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

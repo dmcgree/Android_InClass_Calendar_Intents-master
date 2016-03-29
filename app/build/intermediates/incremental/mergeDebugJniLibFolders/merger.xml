@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Dana\AndroidStudioProjects\Android_InClass_Calendar_Intents-master\Android_InClass_Calendar_Intents-master\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Dana\AndroidStudioProjects\Android_InClass_Calendar_Intents-master\Android_InClass_Calendar_Intents-master\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Dana\AndroidStudioProjects\McGree_MiniProject\McGree_MiniProject\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Dana\AndroidStudioProjects\McGree_MiniProject\McGree_MiniProject\app\src\debug\jniLibs"/></dataSet></merger>

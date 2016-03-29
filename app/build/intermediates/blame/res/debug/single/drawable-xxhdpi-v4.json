@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\randall.png",
-        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\src\\main\\res\\drawable-xxhdpi\\randall.png"
-    },
-    {
         "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\alworth.jpg",
         "source": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\src\\main\\res\\drawable-xxhdpi\\alworth.jpg"
     },
@@ -16,10 +12,6 @@
         "source": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\src\\main\\res\\drawable-xxhdpi\\alworth.png"
     },
     {
-        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\katie.png",
-        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\src\\main\\res\\drawable-xxhdpi\\katie.png"
-    },
-    {
         "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\thistles.jpg",
         "source": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\src\\main\\res\\drawable-xxhdpi\\thistles.jpg"
     },
@@ -30,9 +22,5 @@
     {
         "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\thistles.png",
         "source": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\src\\main\\res\\drawable-xxhdpi\\thistles.png"
-    },
-    {
-        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\clickclack.png",
-        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\Android_InClass_Calendar_Intents-master\\Android_InClass_Calendar_Intents-master\\app\\src\\main\\res\\drawable-xxhdpi\\clickclack.png"
     }
 ]
