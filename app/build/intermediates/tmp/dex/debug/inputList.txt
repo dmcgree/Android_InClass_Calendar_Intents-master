@@ -1,2 +1,0 @@
-C:\Users\LABmin.STORMS\Documents\AndroidStudioProjects\Android_InClass_Calendar_Intents\app\build\intermediates\classes\debug
-C:\Users\LABmin.STORMS\Documents\AndroidStudioProjects\Android_InClass_Calendar_Intents\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-4cb93101d080a0c4439a55b651a9e240377ef8d1.jar
